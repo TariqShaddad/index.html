@@ -1,0 +1,18 @@
+
+
+table , th , td {
+    border-bottom: rgb(197, 195, 195) 1px solid;
+    text-align: center;
+    width: 500px;
+    text-transform: capitalize;
+    border-collapse: collapse;
+    height: 50px;
+  
+    }
+tbody tr:hover {
+  background-color : silver;
+}
+thead tr {
+ background-color: brown;
+ color: white;
+}
